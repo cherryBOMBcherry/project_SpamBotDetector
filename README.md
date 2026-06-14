@@ -35,7 +35,7 @@
    ```
 3. Запустите бота:
    ```bash
-   python src/bot.py
+   python SpamBot/bot.py
    ```
 
 ## Основные результаты
