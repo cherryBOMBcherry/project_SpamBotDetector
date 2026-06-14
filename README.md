@@ -30,7 +30,7 @@
 1. Получите токен бота у [@BotFather](https://t.me/BotFather) в Telegram.
 2. Создайте файл `.env` в корневой папке проекта (или скопируйте `.env.example`):
    ```env
-   TELEGRAM_BOT_TOKEN=ваш_токен_от_BotFather
+   BOT_TOKEN = ваш_токен_от_BotFather
    ```
 3. Запустите бота:
    ```bash
